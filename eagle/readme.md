@@ -8,3 +8,5 @@ Layers: 2 Layers
 Keep the rest of the options default
 
 Complete story on https://www.sydspost.nl/index.php/2021/03/15/axa-remote-2-0-raamopener-bedienen-vanuit-domotics/
+
+![image](https://github.com/sydspost/espaxa/assets/45944257/fe8508ae-acdf-4fcd-9935-dbdd1040cdfe)
