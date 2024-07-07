@@ -1,0 +1,25 @@
+Partlist
+
+Exported from ESP-AXA.brd at 7-7-2024 14:02
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                                            Package                  Library                        Position (inch)       Orientation
+
+C1       47uF                                             C7.5B3                   capacitor-wima                 (1.85 0.95)           R0
+C2       47uF                                             C7.5B3                   capacitor-wima                 (1.85 1.15)           R0
+C3       220uF                                            C7.5B3                   capacitor-wima                 (2.4 2)               R180
+J1       RJ12                                             RJ12                     con-rj                         (2.5 1.6)             R0
+PS1      HLK-10M05                                        HLK10M05                 HLK-10M05                      (1.9 1.85)            R180
+R1       22K                                              0204V                    resistor                       (2.8 2)               R270
+R2       22K                                              0204V                    resistor                       (0.25 0.7)            R0
+R3       4.7K                                             0204V                    resistor                       (0.25 0.8)            R0
+R4       1K                                               0204V                    resistor                       (0.25 0.6)            R0
+R6       4.7K                                             0204V                    resistor                       (0.25 0.45)           R270
+SV3                                                       FE08                     con-lsta                       (1.45 0.75)           R90
+SV4                                                       FE08                     con-lsta                       (0.55 0.75)           R270
+U$1      DC-DC-STEP-UP-MT3608                             DC-DC-STEP-UP-MT3608     dc-dc-boost-2a-microusb-mt3608 (2.25 0.4)            R0
+U$2      2828XX-2282837-2                                 TERMBLK_508-2N           Connector                      (2.55 2.25)           R90
+U2       MICROCHIP_MCP2003A-E-PMICROCHIP_MCP2003A-E-P_0_0 MICROCHIP_MCP2003A-E-P_0 P                              (0.25 1.15)           R0
